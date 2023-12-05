@@ -16,6 +16,9 @@ const (
 	IDENT = "IDENT" //add, foobar, x, y, ...
 	INT   = "INT"   // 123456
 
+	EQ     = "=="
+	NOT_EQ = "!="
+
 	// Operators
 	ASSIGN   = "="
 	PLUS     = "+"
